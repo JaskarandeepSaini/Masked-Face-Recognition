@@ -22,3 +22,6 @@ Procedure:
 2) Creating Classification Model: We created FaceNet model by modifying the simple classification model which uses simple Resnet to Inception ResNet v1.
 
 3) Training: We trained our model using both our datasets i.e. with and without masks images and saved our state in a log file(pb file) that was used in further evaluations. We used 50 epochs for training our model.
+
+
+!!!Dataset is not given it was very big to upload on github!!!
